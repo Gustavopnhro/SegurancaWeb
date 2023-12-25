@@ -124,4 +124,4 @@ Caso você faça utilização de <i>nginx</i> ou <i>apache</i> para dar vida a s
 
 E com isso encerramos o nosso manual de boas práticas para a construção de uma aplicação web mais segura, e com isso eu encerro por aqui! Até a próxima!
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fmike-cena-stickers&psig=AOvVaw1Y64qm62hGF38gYjsn_qr7&ust=1703612697490000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICumv-Rq4MDFQAAAAAdAAAAABAP" alt="John Cena dancing">
+<img src="./images/john-cena-dance.gif" alt="John Cena dancing">
